@@ -1,30 +1,28 @@
 body {
-    background-image: url("images/white_plaster.png");
+  background-image: url("images/white_plaster.png");
 }
 
 .row img {
-    margin: auto;
+  margin: auto;
 }
 
-@media (min-width:768px){
-    .col-sm img {
-        width: 30%;
-}
+@media (min-width: 768px) {
+  .col-sm img {
+    width: 30%;
+  }
 }
 
 .container {
-    background-color: white;
-    border: solid 1px #ddd;
+  background-color: white;
+  border: solid 1px #ddd;
 }
 
 footer {
-    background-color: #666;
-    border-top: solid 6px #4AAAA5;
-    color: white;
+  background-color: #666;
+  border-top: solid 6px #4aaaa5;
+  color: white;
 }
 
 h2 {
-    color: #4AAAA5;
+  color: #4aaaa5;
 }
-
-
